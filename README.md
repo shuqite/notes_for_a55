@@ -2,12 +2,12 @@
 ---
 
 Характеристики первой ревизии (до 22.07.25):
-Прошивка: One ui 7 + Magisk
-Тврп: Нет
-Модули магиск: Lsposed (KnoxPatch), Zapret, EncoreTweeks, RandomA55Tweaks (флагман фичи + 4к60фпс); +Zygisk
+- Прошивка: One ui 7 + Magisk
+- Тврп: Нет
+- Модули магиск: Lsposed (KnoxPatch), Zapret, EncoreTweeks, RandomA55Tweaks (флагман фичи + 4к60фпс); +Zygisk
 
 Характеристики (будущей) второй ревизии:
-Прошивка: RisingOS 6.3
-Тврп: Есть, 3.7.0
-Модули магиск: Zapret, GSI Overlay
+- Прошивка: RisingOS 6.3
+- Тврп: Есть, 3.7.0
+- Модули магиск: Zapret, GSI Overlay
 
