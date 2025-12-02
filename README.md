@@ -15,13 +15,13 @@
 Upd второй ревизии:
 - Прошивка: RisingOS 6.3
 - Тврп: Есть, 3.7.0
-- Модули магиск: только ZTD-D (zapret на стероидах)
+- Модули магиск: только ZDT-D (zapret на стероидах)
 
 **24.08**
 Характеристики третьей ревизии:
 - Прошивка: DuctUI 1.3 (one ui 7 с флагман фичами)
 - Тврп: Есть 3.7.0
-- Модули магиск: ZTD-D(заменен на Zapret), Lsposed(Knoxpatch), EncoreTweaks, Shizuku(Canta, Samsung120hzEnabler)
+- Модули магиск: ZDT-D(заменен на Zapret), Lsposed(Knoxpatch), EncoreTweaks, Shizuku(Canta, Samsung120hzEnabler)
 
 **17.11**
 Характеристики четвертой ревизии (после ухода в бутлуп)
@@ -29,3 +29,5 @@ Upd второй ревизии:
 - Тврп: Есть 3.7.0
 - Модули магиск: Zapret, SamsungTweaks(АОД с обоями для всех девайсов самсунг), Patched Camera lib (LEVEL_3 для камеры - для себя отметил только raw-режим)
 
+**UPD 02.12**
+- Модули магиск: Zapret, SamsungTweaks, Patched Camera Lib, Encore Tweaks, YABP(Yet Another Bootloop Protector), Lsposed(Knoxpatch)
